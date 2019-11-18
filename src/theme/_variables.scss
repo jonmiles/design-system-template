@@ -1,0 +1,59 @@
+$breakpoints: (
+  "extra-large": 1280px,
+  "large": 1100px,
+  "normal": 1000px,
+  "tablet": 760px,
+  "sm-tablet": 480px,
+  "lg-phone": 414px,
+  "phone": 320px
+);
+
+$theme-colors: (
+  "primary": purple,
+  "secondary": blue
+);
+//   "primary": #68b4a8,
+//   "secondary": #53565b,
+//   "info": #7136c4,
+//   "danger": #d43f3a,
+//   "light-grey": #f5f5f5,
+//   "lighter-grey": #fafafa,
+//   "white": #ffffff,
+//   "dark-green": #42946c,
+//   "ocean-green": #42946c,
+//   "light-green": #26ab00,
+//   "black": #000000,
+//   "teal": #36a496,
+//   "orange": #ee7623,
+//   "tan": #b6823c,
+//   "magenta": #b74b6a,
+//   "purple": #6d4294,
+//   "navy": #425e94,
+//   "blue": #427d94,
+//   "clear-blue": #2788e9,
+//   "green": #83bbb2,
+//   "pinkish-grey": #bebebe,
+//   "pumpkin-orange": #ff8500,
+//   "dusty-orange": #ed7630,
+//   "positive": #26ab00,
+//   "warning": #ff8500,
+//   "negative": #ff0000,
+//   "disabled": #676767,
+//   "disabled-light": #d0d0d0,
+//   "warning-light": #fffadb,
+//   "accent-active": #ed7630,
+//   "very-light-pink-two": #dddddd,
+//   "greyish-brown": #555555,
+//   "chatbubble-background": #7f7f7f
+// );
+
+// $font-family-base: "sans-serif";
+// $font-family-stack: "Arial", "Helvetica Neue", "Lato", sans-serif;
+// $h1-font-size: 120px;
+// $h2-font-size: 48px;
+// $h3-font-size: 32px;
+// $h4-font-size: 24px;
+
+// $border-radius: 5px;
+// $grid-gutter-width: 40px;
+// $modal-large-size: 1240px;
